@@ -1,0 +1,8 @@
+{
+  "title": "${title}",
+  "submitter_email": "${submitter_email}",
+  "status": "${status}",
+  "description": "${description}",
+  "priority": "${priority}",
+  "queue": "${queue}"
+}
